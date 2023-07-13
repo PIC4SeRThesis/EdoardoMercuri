@@ -1,22 +1,9 @@
-> Project: "project name"
+> Project: "Machine Learning for Running Analysis with Wearable Inertial Sensors"
 
-> Owner: "project owner name" 
+> Owner: "Edoardo Mercuri" 
 
-> Date: "yyyy:mm" 
+> Date: "2023:07" 
 
 ---
 
-# Title
-
-## Description of the project
-...
-
-## Installation procedure
-...
-
-## User Guide
-...
-
-P.S. Compile requirements.txt file if needed
-
-More detailed information about markdown style for README.md file [HERE](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+# Collection of scripts and notebooks developed for "Machine Learning for Running Analysis with Wearable Inertial Sensors" Master's Thesis, Politecnico di Torino, July 2023.
