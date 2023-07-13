@@ -11,6 +11,6 @@ keywords:
   - Pressure insoles
   - MatLab
   - Python
-repository-code: "https://github.com/PIC4SeRThesis/EdoardoMercuri"
+url: "https://github.com/PIC4SeRThesis/EdoardoMercuri"
 title: "Collection of scripts and notebooks developed for "Machine Learning for Running Analysis with Wearable Inertial Sensors" Master's Thesis, Politecnico di Torino, July 2023."
 version: 0.1
