@@ -1,9 +1,9 @@
 abstract: "Collection of scripts and notebooks developed for "Machine Learning for Running Analysis with Wearable Inertial Sensors" Master's Thesis, Politecnico di Torino, July 2023."
 authors:
-  - family-names: Mercuri
-    given-names: Edoardo
+  - family-names: "Mercuri"
+    given-names: "Edoardo"
 cff-version: 1.2.0
-date-released: "2023-07-13"
+date-released: 2023-07-13
 keywords:
   - Machine Learning
   - IMUs
